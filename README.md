@@ -1,6 +1,6 @@
 # c-musical-oneliners
-Exploring musical one-liners as inspired by Bisqwit and Viznut.
-For some introductory reading, check out Viznut's original
+Exploring musical one-liners as inspired by **Bisqwit** and **Viznut**.
+For some introductory reading, check out **Viznut**'s original
 write-up series:
 
 1. [Introduction](http://viznut.fi/texts-en/bytebeat_algorithmic_symphonies.html)
@@ -10,10 +10,10 @@ write-up series:
 
 and
 
-1. [the write-up by Kragen](http://canonical.org/~kragen/bytebeat/)
+1. [the write-up by **Kragen**](http://canonical.org/~kragen/bytebeat/)
 
 
-## Setup (~1m)
+## Setup (<1m)
 
 1. `gcc oneliner.c`
 2. `brew install sox`
