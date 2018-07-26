@@ -12,6 +12,8 @@ and
 
 1. [the write-up by **Kragen**](http://canonical.org/~kragen/bytebeat/)
 
+**Bisqwit** has an [independently developed but similar work](https://www.youtube.com/watch?v=L9KLnN0GczI&t=6s), which was my gateway into this kind of demo scene/bytebeat community.
+
 
 ## Setup (<1m)
 
@@ -19,5 +21,5 @@ and
 2. `brew install sox`
 3. `./a.out | play -c1 -b8 -eunsigned -traw -r8k -`
 
-(convenience line once sox is installed)
+(convenience line for playing with changes once sox is installed)
 * `gcc oneliner; ./a.out | play -c1 -b8 -eunsigned -traw -r8k -`
